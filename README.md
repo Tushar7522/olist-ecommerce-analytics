@@ -56,9 +56,8 @@ This project is designed as a **real-world data analytics case study** and is pa
 • Excel – Data cleaning & validation  
 • GitHub – Version control & project sharing 
 
-## Conclusion
 
-## Overall Conclusion
+## Conclusion
 
 1. The dashboard presents a consolidated view of sales performance, customer behavior, payment patterns, and delivery efficiency.
 2. Weekday transactions account for the majority of revenue, indicating higher purchasing activity during business days.
