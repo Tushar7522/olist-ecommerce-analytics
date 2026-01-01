@@ -67,7 +67,7 @@ This project is designed as a **real-world data analytics case study** and is pa
 
 ## 🛠️ Technologies Used
 • Power BI – Data visualization & dashboarding  
-• Excel – Data cleaning & validation  
+• Excel/CSV – Data source  
 • GitHub – Version control & project sharing 
 
 
