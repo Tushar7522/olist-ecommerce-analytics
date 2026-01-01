@@ -1,5 +1,4 @@
-# olist-ecommerce-analytics-PowerBI
-# 🏪 Olist Store Analysis Dashboard
+   # 🏪 olist-ecommerce-analytics-PowerBI
 
 ## 📊 Project Overview
 
