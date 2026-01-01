@@ -1,4 +1,4 @@
-   # 🏪 olist-ecommerce-analytics-PowerBI
+# 🏪 olist-ecommerce-analytics-PowerBI
 
 ## 📊 Project Overview
 
