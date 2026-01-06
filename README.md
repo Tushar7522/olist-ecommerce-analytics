@@ -1,11 +1,11 @@
 # 🏪 olist-ecommerce-analytics-PowerBI
-
+---
 ## 📊 Project Overview
 
 This project analyzes sales performance, customer behavior, payment patterns, and delivery efficiency of the Olist e-commerce platform using  **Power BI**.
 The objective is to extract actionable business insights that help improve customer satisfaction, optimize delivery performance, and increase overall revenue.
 This project is designed as a **real-world data analytics case study** and is part of my professional data analytics portfolio.
-
+---
 ### 🎯 Key Features
 
 - **Real-time KPI Monitoring**: Track 99.4K customers, 16M in total payments, 4.09 avg review score
@@ -27,7 +27,7 @@ This project is designed as a **real-world data analytics case study** and is pa
 5. What is the relationship between **shipping duration**  
    (order_delivered_customer_date − order_purchase_timestamp)  
    and **customer review scores**?
-
+---
 
 ## 🖼️ Dashboard Screenshots
 
@@ -64,13 +64,13 @@ This project is designed as a **real-world data analytics case study** and is pa
    - Top category: Health & Beauty (1.45M)
    - Pet shop category shows 11.3 days avg delivery difference
    - Top 10 products account for significant revenue concentration
-
+---
 ## 🛠️ Technologies Used
 • Power BI – Data visualization & dashboarding  
 • Excel/CSV – Data source  
 • GitHub – Version control & project sharing 
 
-
+---
 ## Conclusion
 
 1. The dashboard presents a consolidated view of sales performance, customer behavior, payment patterns, and delivery efficiency.
